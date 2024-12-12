@@ -10,6 +10,11 @@
 
 ![ga](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+![ij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![ws](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
+![xcde](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
 <!-- <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/{7apislaz}" width="100%"/> </a>
 
 **7apislaz/7apislaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
