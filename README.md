@@ -1,5 +1,5 @@
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-
+![flutter] (https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 <!-- <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/{7apislaz}" width="100%"/> </a>
 
 **7apislaz/7apislaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
