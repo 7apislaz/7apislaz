@@ -1,4 +1,4 @@
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7apislaz&layout=compact)
+! [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7apislaz&layout=compact)
 
 <!-- <a href="https://github.com/devxb/gitanimals"> <img src="https://render.gitanimals.org/farms/{7apislaz}" width="100%"/> </a>
 
